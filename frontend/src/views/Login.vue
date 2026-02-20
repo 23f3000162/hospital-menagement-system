@@ -1,3 +1,7 @@
+<!--
+Milestone-HMS-V2 Auth-RBAC
+Role-based redirection implemented here.
+-->
 <template>
   <div class="login-wrapper d-flex align-items-center justify-content-center">
     <div class="login-card shadow-lg p-4 rounded">
