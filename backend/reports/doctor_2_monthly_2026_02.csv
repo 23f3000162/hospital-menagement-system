@@ -1,0 +1,6 @@
+Doctor ID,Doctor Name,Month,Year,Completed Appointments
+2,rahul,02,2026,0
+
+Appointment ID,Patient ID,Date,Time,Status
+4,1,2026-02-04,10:00,Booked
+5,2,2026-02-04,11:00,Booked

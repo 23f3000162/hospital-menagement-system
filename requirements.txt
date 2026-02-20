@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+Flask-JWT-Extended
+Flask-Cors
+Flask-Mail
+Redis
+Celery
+python-dotenv
+Flask-JWT-Extended>=4.0.0
