@@ -1,4 +1,4 @@
-<template>
+<template>   
   <div class="admin-dashboard container-fluid px-4 mt-3">
 
     <div class="admin-hero d-flex justify-content-between align-items-center mb-4 p-4 rounded-4">
@@ -11,7 +11,9 @@
         Logout
       </button>
     </div>
-
+      <!--
+this comment for push the code on github
+-->
     <div class="card shadow-sm border-0 search-panel mb-4">
       <div class="card-body d-flex flex-wrap align-items-center gap-2">
         <div class="search-title">Quick Search</div>
