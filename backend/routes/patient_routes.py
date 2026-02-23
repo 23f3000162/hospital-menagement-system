@@ -12,6 +12,7 @@ from utils.cache import get_cache, set_cache
 from models import Patient, Doctor, Appointment, Treatment, Department, User
 
 patient_bp = Blueprint("patient", __name__, url_prefix="/api/patient")
+# making commnet to push code in github
 
 
 # check patient role 

@@ -2,6 +2,9 @@
   <div class="patient-dashboard container-fluid px-4 mt-3">
 
     <!-- HEADER -->
+     <!--
+to add comment to make chnages to push the code on github
+-->
     <div class="d-flex justify-content-between align-items-center mb-4 p-3 rounded"
       style="background: linear-gradient(90deg, #4e73df, #36b9cc); color: white;">
       <div>
