@@ -31,7 +31,7 @@ def send_email(subject, recipients, body):
         mail.send(msg)
 
 
-
+# Email utility used by Celery background tasks
 
 @celery.task(name="tasks.send_email.send_reminder_email")
 def send_reminder_email(subject, recipients, body):

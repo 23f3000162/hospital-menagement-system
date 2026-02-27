@@ -17,7 +17,7 @@ celery.conf.update(
     timezone="Asia/Kolkata",
     enable_utc=False
 )
-
+# add commnets to make chnages and push to github
 
 # app will send the task to redis brockr and worker will pick the task from redis broker and execute it
 # and bad me jo result aata h wo redis backend me store ho jata h

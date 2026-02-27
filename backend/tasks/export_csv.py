@@ -2,7 +2,8 @@ from tasks.celery_worker import celery
 from models import Treatment, Appointment
 import csv
 import os
-
+# User-triggered asynchronous CSV export
+# Allows patients to download treatment history
 @celery.task(name="task.export_patient_csv")
 def export_patient_csv(patient_id):
     from app import create_app

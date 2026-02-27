@@ -4,7 +4,7 @@ from celery.schedules import crontab
 class Config:
     SECRET_KEY = "super-secret-key"
 
-    
+    # Redis configuration for Celery broker and result backend
     SQLALCHEMY_DATABASE_URI = "sqlite:///database.db"
     SQLALCHEMY_TRACK_MODIFICATIONS = False  # dont trackthe history of dta changes each time 
       # sqlalchemy will covert data row in python abject 
