@@ -1,6 +1,6 @@
 from datetime import datetime
 import os
-
+# this is the patient routes which will be used to handle the patient related routes
 from flask import Blueprint, request, jsonify, send_file
 from flask_jwt_extended import jwt_required, get_jwt, get_jwt_identity
 

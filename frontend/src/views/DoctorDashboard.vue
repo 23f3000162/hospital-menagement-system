@@ -1,6 +1,6 @@
 <template>
   <div class="doctor-dashboard container-fluid px-4 mt-3">
-
+   <!---this commnet is use for push the code on github -->
     <!-- HEADER -->
     <div class="d-flex justify-content-between align-items-center mb-4 p-3 rounded"
       style="background: linear-gradient(90deg, #36b9cc, #1cc88a); color: white;">

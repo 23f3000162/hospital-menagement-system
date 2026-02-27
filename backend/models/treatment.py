@@ -1,6 +1,6 @@
 from extensions import db
 
-
+# this is the treatment model which will be used to store the treatment details in the database
 class Treatment(db.Model):
     __tablename__ = "treatments"
 

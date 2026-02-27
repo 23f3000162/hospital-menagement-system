@@ -3,8 +3,9 @@
 
     <!-- HEADER -->
      <!--
-to add comment to make chnages to push the code on github
+to Add comment to push the code on github
 -->
+
     <div class="d-flex justify-content-between align-items-center mb-4 p-3 rounded"
       style="background: linear-gradient(90deg, #4e73df, #36b9cc); color: white;">
       <div>
@@ -37,7 +38,7 @@ to add comment to make chnages to push the code on github
         :class="{ active: activeTab === 'profile' }"
         @click="openProfile"
       >Edit Profile</button>
-    </div>
+    </div>  
 
     <!-- DEPARTMENTS -->
     <div v-if="activeTab === 'book' && view === 'departments'" class="card shadow mb-4">

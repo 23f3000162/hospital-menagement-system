@@ -3,7 +3,7 @@ from flask_jwt_extended import jwt_required, get_jwt, get_jwt_identity
 from datetime import date, datetime
 import csv
 import os
-
+# this is the doctor routes which will be used to handle the doctor related routes
 from extensions import db
 from models import Doctor, Appointment, Treatment, Patient, User
 

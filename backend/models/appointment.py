@@ -1,7 +1,7 @@
 from extensions import db
 from datetime import datetime, date as py_date
 
-
+# this is the appointment model which will be used to store the appointment details in the database
 class Appointment(db.Model):
     __tablename__ = "appointments"
 
