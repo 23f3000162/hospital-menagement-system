@@ -33,7 +33,7 @@ class Config:
         }
     }
 
-    
+    # add commt for push the code on gitub
     MAIL_SERVER = "smtp.gmail.com"    # simple mail transfer protocol server its used to send mail 
     MAIL_PORT = 587   # port number 
     MAIL_USE_TLS = True   # menas encryption use krna h ya nhi

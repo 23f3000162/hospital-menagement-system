@@ -3,7 +3,7 @@ import os
 # this is the patient routes which will be used to handle the patient related routes
 from flask import Blueprint, request, jsonify, send_file
 from flask_jwt_extended import jwt_required, get_jwt, get_jwt_identity
-
+# Cached endpoint for patient search
 from extensions import db
 from tasks.send_email import send_email, send_reminder_email
 from tasks.patient_treatment_export import export_patient_treatments

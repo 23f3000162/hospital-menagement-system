@@ -4,6 +4,7 @@ from datetime import date, datetime
 import csv
 import os
 # this is the doctor routes which will be used to handle the doctor related routes
+# add commnt to push the code on gitub
 from extensions import db
 from models import Doctor, Appointment, Treatment, Patient, User
 
