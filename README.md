@@ -349,10 +349,10 @@ Base URL: `http://localhost:5000/api`
 <div align="center">
 
 **[Your Name]**
-*B.Tech Computer Science — [Your University Name]*
-*[Year]*
+*BS in data Science — [iit madras]*
+*[2027]*
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/23f3000162)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
 </div>
